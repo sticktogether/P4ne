@@ -1,6 +1,6 @@
 README.md
 ===
-
+![py](https://miro.medium.com/max/1200/1*hicFMnjJf8GyP0sleHrTbA.png)
 ###### tags: `Python` `CSR` `Courses`
 
 - **Project Name:** pythonProjectCSR

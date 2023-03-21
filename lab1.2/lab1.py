@@ -14,7 +14,9 @@ temp = list(map(getvalue, sheet['B'][1:]))       # содержимое коло
 activity = list(map(getvalue, sheet['D'][1:]))   # содержимое колонки D в значение
 
 list_x = year
-list_y = temp
+list_y1 = temp
+list_y2 = activity
 
-pyplot.plot(list_x, list_y, label="Метка")
+pyplot.plot(list_x, list_y1, label="Метка")
+pyplot.plot(list_x, list_y2, label="Метка")
 pyplot.show()
